@@ -1,0 +1,791 @@
+﻿1
+00:00:00,256 --> 00:00:01,792
+<font color="#c8c8c8">Hello everybody</font>
+
+2
+00:00:02,048 --> 00:00:04,352
+<font color="#a5a5a5">Simulate</font>
+
+3
+00:00:04,608 --> 00:00:06,912
+<font color="#b1b1b1">A middleware pipeline</font>
+
+4
+00:00:07,168 --> 00:00:08,960
+<font color="#747474">Asp.net core</font>
+
+5
+00:00:09,216 --> 00:00:11,008
+<font color="#b8b8b8">That includes login</font>
+
+6
+00:00:11,520 --> 00:00:12,288
+<font color="#9e9e9e">Cashing</font>
+
+7
+00:00:12,544 --> 00:00:14,592
+<font color="#8c8c8c">Anna Plantation behaviors</font>
+
+8
+00:00:17,408 --> 00:00:22,528
+<font color="#d4d4d4">This will not be an actual round about asp.net core application</font>
+
+9
+00:00:22,784 --> 00:00:27,648
+<font color="#bcbcbc">Bob the Builder demonstrated decorator Concept in a middleware contacts</font>
+
+10
+00:00:28,160 --> 00:00:28,928
+<font color="#8f8f8f">Last Ride</font>
+
+11
+00:00:30,208 --> 00:00:30,976
+<font color="#7e7e7e">Parsley</font>
+
+12
+00:00:32,000 --> 00:00:38,144
+<font color="#d6d6d6">Wake me at my using I am adding another reason I will use system collection</font>
+
+13
+00:00:38,400 --> 00:00:38,912
+<font color="#c1c1c1">Generic</font>
+
+14
+00:00:41,472 --> 00:00:42,752
+<font color="#dddddd">System</font>
+
+15
+00:00:43,264 --> 00:00:45,056
+<font color="#b7b7b7">Call actions</font>
+
+16
+00:00:45,824 --> 00:00:47,360
+<font color="#d0d0d0">Directions</font>
+
+17
+00:00:47,616 --> 00:00:51,456
+<font color="#aeaeae">Generic and also I will use Trading</font>
+
+18
+00:00:51,712 --> 00:00:53,760
+<font color="#5a5a5a">Nothing system</font>
+
+19
+00:00:55,040 --> 00:00:56,576
+<font color="#adadad">Trading</font>
+
+20
+00:00:58,368 --> 00:00:59,648
+<font color="#eaeaea">Tasks okay</font>
+
+21
+00:01:00,160 --> 00:01:00,928
+<font color="#c3c3c3">I'm done</font>
+
+22
+00:01:01,184 --> 00:01:07,328
+<font color="#b3b3b3">I have a public interface I request it is keep</font>
+
+23
+00:01:07,584 --> 00:01:11,168
+<font color="#b3b3b3">Is my request to my alarm for 12:00</font>
+
+24
+00:01:11,424 --> 00:01:16,032
+<font color="#cacaca">Process</font>
+
+25
+00:01:16,288 --> 00:01:17,312
+<font color="#8f8f8f">I'm done</font>
+
+26
+00:01:17,824 --> 00:01:21,408
+<font color="#cccccc">I have a basic request and it has</font>
+
+27
+00:01:21,664 --> 00:01:22,176
+<font color="#dedede">Concrete</font>
+
+28
+00:01:22,432 --> 00:01:25,248
+<font color="#bfbfbf">Play implementation of this I request let's make that</font>
+
+29
+00:01:25,760 --> 00:01:31,904
+<font color="#bababa">I have a public class basic request last day and it is</font>
+
+30
+00:01:32,160 --> 00:01:37,792
+<font color="#eaeaea">Inheriting from I request and because of that I have to</font>
+
+31
+00:01:38,816 --> 00:01:44,960
+<font color="#d3d3d3">Probably I have I have to implement probably</font>
+
+32
+00:01:45,216 --> 00:01:47,520
+<font color="#f3f3f3">Process</font>
+
+33
+00:01:47,776 --> 00:01:50,848
+<font color="#c6c6c6">As only add a console</font>
+
+34
+00:01:51,360 --> 00:01:53,408
+<font color="#c4c4c4">That's right line</font>
+
+35
+00:01:53,664 --> 00:01:55,456
+<font color="#acacac">I have to write line</font>
+
+36
+00:01:55,712 --> 00:02:01,088
+<font color="#e2e2e2">Processing basic request okay</font>
+
+37
+00:02:01,344 --> 00:02:02,112
+<font color="#1a1a1a">Requ</font>
+
+38
+00:02:03,136 --> 00:02:06,208
+<font color="#b8b8b8">And this processing basic request done</font>
+
+39
+00:02:06,976 --> 00:02:09,280
+<font color="#777777">Knock knock</font>
+
+40
+00:02:09,536 --> 00:02:10,560
+<font color="#aeaeae">I'm done</font>
+
+41
+00:02:10,816 --> 00:02:16,192
+<font color="#bfbfbf">I am implementing a public abstract base</font>
+
+42
+00:02:17,984 --> 00:02:20,544
+<font color="#a4a4a4">Public abstract class it is</font>
+
+43
+00:02:21,056 --> 00:02:24,896
+<font color="#b4b4b4">Let's call it Middle where</font>
+
+44
+00:02:26,176 --> 00:02:27,968
+<font color="#5f5f5f">Decorator</font>
+
+45
+00:02:28,480 --> 00:02:32,320
+<font color="#e5e5e5">And if you are not familiar with metal wears</font>
+
+46
+00:02:32,832 --> 00:02:33,600
+<font color="#919191">Play</font>
+
+47
+00:02:34,880 --> 00:02:37,440
+<font color="#f6f6f6">Ask that as a question or</font>
+
+48
+00:02:37,696 --> 00:02:39,744
+<font color="#6c6c6c">Inform me</font>
+
+49
+00:02:40,512 --> 00:02:41,792
+<font color="#4c4c4c">Protect us</font>
+
+50
+00:02:42,048 --> 00:02:45,120
+<font color="#d6d6d6">And I can put that small documentar</font>
+
+51
+00:02:45,376 --> 00:02:47,424
+<font color="#cacaca">Video for what is</font>
+
+52
+00:02:48,704 --> 00:02:49,984
+<font color="#8e8e8e">On my request</font>
+
+53
+00:02:50,240 --> 00:02:51,008
+<font color="#c3c3c3">Request</font>
+
+54
+00:02:51,264 --> 00:02:52,800
+<font color="#e4e4e4">I'm done I am</font>
+
+55
+00:02:53,056 --> 00:02:54,592
+<font color="#7c7c7c">Friday's public</font>
+
+56
+00:02:54,848 --> 00:02:57,664
+<font color="#8e8e8e">Middle layer decorator Constructor</font>
+
+57
+00:02:58,176 --> 00:03:00,480
+<font color="#b0b0b0">And I request</font>
+
+58
+00:03:01,760 --> 00:03:03,040
+<font color="#dbdbdb">Request</font>
+
+59
+00:03:03,296 --> 00:03:07,392
+<font color="#cbcbcb">I request request</font>
+
+60
+00:03:07,648 --> 00:03:08,416
+<font color="#bcbcbc">I'm done</font>
+
+61
+00:03:08,672 --> 00:03:09,952
+<font color="#f2f2f2">I am writing</font>
+
+62
+00:03:11,232 --> 00:03:15,840
+<font color="#d8d8d8">I am assigning my request into this request</font>
+
+63
+00:03:18,656 --> 00:03:20,448
+<font color="#f8f8f8">We have to</font>
+
+64
+00:03:24,032 --> 00:03:29,408
+<font color="#cbcbcb">I am not implementing this or riding public abstract White</font>
+
+65
+00:03:29,664 --> 00:03:35,040
+<font color="#bababa">Process and the concrete wall swell handle</font>
+
+66
+00:03:36,064 --> 00:03:42,208
+<font color="#9b9b9b">Okay we Implement our middleweight decorator and last credit card decorator first</font>
+
+67
+00:03:42,464 --> 00:03:43,744
+<font color="#cacaca">I decided to</font>
+
+68
+00:03:44,000 --> 00:03:44,768
+<font color="#7f7f7f">Walking</font>
+
+69
+00:03:45,024 --> 00:03:45,792
+<font color="#838383">Into my</font>
+
+70
+00:03:46,048 --> 00:03:52,192
+<font color="#efefef">Request with my decorator how can I do that I only need to probably close</font>
+
+71
+00:03:53,984 --> 00:03:55,264
+<font color="#686868">Logging</font>
+
+72
+00:03:56,544 --> 00:03:57,824
+<font color="#cbcbcb">Middle</font>
+
+73
+00:03:58,336 --> 00:04:02,176
+<font color="#b7b7b7">Where Anita has to be middleware</font>
+
+74
+00:04:04,992 --> 00:04:08,320
+<font color="#4c4c4c">Weather weather</font>
+
+75
+00:04:15,744 --> 00:04:17,536
+<font color="#d3d3d3">My corrector what we have to do</font>
+
+76
+00:04:17,791 --> 00:04:20,351
+<font color="#d8d8d8">Parsley we have to give</font>
+
+77
+00:04:20,863 --> 00:04:27,007
+<font color="#c6c6c6">Constructor and there's Loggins middleware decorator have to get this</font>
+
+78
+00:04:27,263 --> 00:04:29,567
+<font color="#c0c0c0">Request request</font>
+
+79
+00:04:29,823 --> 00:04:35,967
+<font color="#d9d9d9">And we have to pass that into our Base Class request</font>
+
+80
+00:04:36,223 --> 00:04:38,271
+<font color="#d2d2d2">And then we can finish that</font>
+
+81
+00:04:38,527 --> 00:04:41,343
+<font color="#e6e6e6">Okay we are training so I always</font>
+
+82
+00:04:42,367 --> 00:04:46,719
+<font color="#e2e2e2">Put that into bass and that we have to public</font>
+
+83
+00:04:46,975 --> 00:04:48,255
+<font color="#868686">All right</font>
+
+84
+00:04:48,511 --> 00:04:53,119
+<font color="#9c9c9c">Play Wyatt last say process right</font>
+
+85
+00:04:54,143 --> 00:04:58,239
+<font color="#d3d3d3">On this process is basically made the console</font>
+
+86
+00:04:59,007 --> 00:05:00,799
+<font color="#aaaaaa">Not right line</font>
+
+87
+00:05:01,311 --> 00:05:04,127
+<font color="#c0c0c0">What will do logging</font>
+
+88
+00:05:05,151 --> 00:05:06,687
+<font color="#d9d9d9">Request okay</font>
+
+89
+00:05:07,199 --> 00:05:09,247
+<font color="#efefef">I'm done I have to call my</font>
+
+90
+00:05:10,015 --> 00:05:12,831
+<font color="#cdcdcd">Request that process right</font>
+
+91
+00:05:14,623 --> 00:05:18,207
+<font color="#c7c7c7">I completed adding logging middleware</font>
+
+92
+00:05:19,487 --> 00:05:25,631
+<font color="#d9d9d9">In the future I decided to add cashing to my request with middleware and I am</font>
+
+93
+00:05:25,887 --> 00:05:27,167
+<font color="#d3d3d3">I'm adding cashing metal wire</font>
+
+94
+00:05:28,191 --> 00:05:33,055
+<font color="#b6b6b6">Cashing middleware and it has to be cashing middleware in the process</font>
+
+95
+00:05:33,823 --> 00:05:37,919
+<font color="#c4c4c4">Best implemented Behavior at better less at the private</font>
+
+96
+00:05:38,175 --> 00:05:39,967
+<font color="#a2a2a2">Static</font>
+
+97
+00:05:40,223 --> 00:05:42,271
+<font color="#d7d7d7">Are dictionary</font>
+
+98
+00:05:43,039 --> 00:05:46,879
+<font color="#cacaca">String string okay</font>
+
+99
+00:05:47,135 --> 00:05:50,463
+<font color="#e3e3e3">And I am using cash and</font>
+
+100
+00:05:50,719 --> 00:05:52,511
+<font color="#dcdcdc">This cash has to be</font>
+
+101
+00:05:52,767 --> 00:05:58,399
+<font color="#b4b4b4">What has to be near dictionary string string right I am creating any additional strength strength</font>
+
+102
+00:05:59,167 --> 00:06:00,191
+<font color="#838383">And</font>
+
+103
+00:06:01,471 --> 00:06:05,055
+<font color="#ebebeb">In the process I am falsely checking</font>
+
+104
+00:06:11,455 --> 00:06:13,503
+<font color="#8d8d8d">Are cash</font>
+
+105
+00:06:15,807 --> 00:06:16,831
+<font color="#5d5d5d">Contains</font>
+
+106
+00:06:18,111 --> 00:06:21,951
+<font color="#cccccc">Right we have a dictionary and I am going to</font>
+
+107
+00:06:22,719 --> 00:06:25,791
+<font color="#cccccc">Let's say I am using KKR here</font>
+
+108
+00:06:28,095 --> 00:06:29,887
+<font color="#d4d4d4">On the k i</font>
+
+109
+00:06:31,167 --> 00:06:31,935
+<font color="#2a2a2a">Say</font>
+
+110
+00:06:32,447 --> 00:06:35,263
+<font color="#5a5a5a">Console that rightline</font>
+
+111
+00:06:36,799 --> 00:06:42,943
+<font color="#c1c1c1">Fetching from the cash and</font>
+
+112
+00:06:43,199 --> 00:06:43,967
+<font color="#a6a6a6">And I am</font>
+
+113
+00:06:45,247 --> 00:06:46,271
+<font color="#777777">Returning</font>
+
+114
+00:06:46,527 --> 00:06:52,671
+<font color="#ececec">Okay I catched from the cash and return this value I don't need to process my request</font>
+
+115
+00:06:53,951 --> 00:06:54,975
+<font color="#e3e3e3">Otherwise</font>
+
+116
+00:06:55,231 --> 00:06:58,303
+<font color="#b7b7b7">I have to request process to request</font>
+
+117
+00:06:58,559 --> 00:07:02,911
+<font color="#c5c5c5">I'm done I have to ask this in this case Into Cash</font>
+
+118
+00:07:03,167 --> 00:07:05,471
+<font color="#e1e1e1">I am using hardcore strings of cars</font>
+
+119
+00:07:05,727 --> 00:07:09,567
+<font color="#efefef">Otherwise it has to be get from the request value</font>
+
+120
+00:07:16,735 --> 00:07:18,527
+<font color="#eeeeee">I decided to</font>
+
+121
+00:07:19,807 --> 00:07:25,695
+<font color="#d4d4d4">Authentication middleware I decided to add authentication to my API</font>
+
+122
+00:07:25,951 --> 00:07:27,487
+<font color="#f0f0f0">And I am calling that</font>
+
+123
+00:07:29,535 --> 00:07:33,119
+<font color="#212121">1038</font>
+
+124
+00:07:34,911 --> 00:07:37,983
+<font color="#dadada">I am I don't need this cashing mechanism</font>
+
+125
+00:07:38,239 --> 00:07:39,007
+<font color="#ececec">The important</font>
+
+126
+00:07:39,263 --> 00:07:43,359
+<font color="#cacaca">Point here is process right we don't have a cash anymore</font>
+
+127
+00:07:44,383 --> 00:07:46,175
+<font color="#adadad">In the function at</font>
+
+128
+00:07:47,199 --> 00:07:48,991
+<font color="#f1f1f1">I am saying</font>
+
+129
+00:07:49,247 --> 00:07:50,271
+<font color="#6a6a6a">Console</font>
+
+130
+00:07:50,527 --> 00:07:52,319
+<font color="#6f6f6f">Spotlight</font>
+
+131
+00:07:53,343 --> 00:07:57,439
+<font color="#9c9c9c">Let's say authenticating</font>
+
+132
+00:07:57,695 --> 00:08:03,327
+<font color="#bbbbbb">The organic I think the request</font>
+
+133
+00:08:04,095 --> 00:08:05,119
+<font color="#cdcdcd">Okay</font>
+
+134
+00:08:05,375 --> 00:08:06,655
+<font color="#dddddd">I'm done</font>
+
+135
+00:08:06,911 --> 00:08:10,239
+<font color="#b8b8b8">I am assigning care what I believe is all time</font>
+
+136
+00:08:11,263 --> 00:08:13,567
+<font color="#626262">Ticket office and</font>
+
+137
+00:08:13,823 --> 00:08:16,383
+<font color="#cccccc">Real case scenario it will be</font>
+
+138
+00:08:18,175 --> 00:08:19,199
+<font color="#b3b3b3">Request</font>
+
+139
+00:08:19,455 --> 00:08:21,247
+<font color="#afafaf">Where are some lighting Behavior</font>
+
+140
+00:08:22,783 --> 00:08:25,343
+<font color="#9c9c9c">IMs I think that that's true so</font>
+
+141
+00:08:25,599 --> 00:08:27,135
+<font color="#2d2d2d">If it's authenticated</font>
+
+142
+00:08:28,159 --> 00:08:29,439
+<font color="#dddddd">Of course it is that</font>
+
+143
+00:08:30,719 --> 00:08:32,767
+<font color="#8a8a8a">Unusable cold spot</font>
+
+144
+00:08:33,023 --> 00:08:35,583
+<font color="#d9d9d9">We are simulating the behaviors for</font>
+
+145
+00:08:35,839 --> 00:08:37,887
+<font color="#f7f7f7">Don't worry about that</font>
+
+146
+00:08:40,959 --> 00:08:42,751
+<font color="#acacac">Is that if it is a quad</font>
+
+147
+00:08:43,007 --> 00:08:46,335
+<font color="#b9b9b9">What time does we are request that process right</font>
+
+148
+00:08:46,591 --> 00:08:48,639
+<font color="#e1e1e1">We don't have any problem with that</font>
+
+149
+00:08:48,895 --> 00:08:49,919
+<font color="#f2f2f2">But otherwise</font>
+
+150
+00:08:50,687 --> 00:08:53,503
+<font color="#dfdfdf">I have a console that right light</font>
+
+151
+00:08:54,527 --> 00:08:58,623
+<font color="#626262">Authentication failure</font>
+
+152
+00:08:59,903 --> 00:09:01,183
+<font color="#a0a0a0">I'm done</font>
+
+153
+00:09:01,439 --> 00:09:06,303
+<font color="#b3b3b3">Are function is finished that is right or client called and explain it that</font>
+
+154
+00:09:06,559 --> 00:09:08,351
+<font color="#cfcfcf">We have a I request right</font>
+
+155
+00:09:08,607 --> 00:09:11,167
+<font color="#f7f7f7">I request we will make a request</font>
+
+156
+00:09:12,959 --> 00:09:16,287
+<font color="#d2d2d2">Oh my gosh I request request</font>
+
+157
+00:09:17,311 --> 00:09:20,383
+<font color="#c3c3c3">I am starting creating a basic</font>
+
+158
+00:09:20,639 --> 00:09:23,967
+<font color="#c2c2c2">Requests we already implanted that</font>
+
+159
+00:09:25,759 --> 00:09:27,039
+<font color="#b3b3b3">Okay</font>
+
+160
+00:09:27,551 --> 00:09:28,063
+<font color="#dddddd">I'm done</font>
+
+161
+00:09:28,831 --> 00:09:34,719
+<font color="#d4d4d4">I am adding request to a menu middleware I am adding</font>
+
+162
+00:09:34,975 --> 00:09:35,743
+<font color="#717171">Logging</font>
+
+163
+00:09:36,255 --> 00:09:37,023
+<font color="#cbcbcb">Into my</font>
+
+164
+00:09:38,303 --> 00:09:39,327
+<font color="#a3a3a3">Request</font>
+
+165
+00:09:43,167 --> 00:09:45,727
+<font color="#c2c2c2">And then I decided that my request to new</font>
+
+166
+00:09:45,983 --> 00:09:48,287
+<font color="#939393">Can you start off logging</font>
+
+167
+00:09:48,543 --> 00:09:50,847
+<font color="#acacac">Decided that cashing</font>
+
+168
+00:09:51,103 --> 00:09:53,663
+<font color="#f1f1f1">And after that I decided to</font>
+
+169
+00:09:53,919 --> 00:09:57,247
+<font color="#d1d1d1">I decided not to add</font>
+
+170
+00:09:58,527 --> 00:09:59,807
+<font color="#9c9c9c">Authentication</font>
+
+171
+00:10:00,575 --> 00:10:02,623
+<font color="#7a7a7a">Authentication middleware</font>
+
+172
+00:10:03,135 --> 00:10:04,927
+<font color="#e9e9e9">I'm done I am saying</font>
+
+173
+00:10:05,183 --> 00:10:08,767
+<font color="#dcdcdc">This is my API on I am saying process this request</font>
+
+174
+00:10:09,023 --> 00:10:11,071
+<font color="#e7e7e7">Let's see what will happen</font>
+
+175
+00:10:11,839 --> 00:10:17,471
+<font color="#bababa">Compilation Arrow oh my gosh what is the problem with that</font>
+
+176
+00:10:18,751 --> 00:10:20,799
+<font color="#505050">Request process Publix at 4</font>
+
+177
+00:10:29,759 --> 00:10:30,271
+<font color="#a5a5a5">Last</font>
+
+178
+00:10:58,431 --> 00:11:02,783
+<font color="#c2c2c2">Still have a problem if I was public with public cloud</font>
+
+179
+00:11:15,327 --> 00:11:21,471
+<font color="#e1e1e1">Okay we completed the writing we have authentication request first logging and processing</font>
+
+180
+00:11:21,727 --> 00:11:23,519
+<font color="#939393">Can I buy a zebra Quest these are all</font>
+
+181
+00:11:24,031 --> 00:11:27,359
+<font color="#939393">First let's make a quick explanation</font>
+
+182
+00:11:27,615 --> 00:11:29,151
+<font color="#e7e7e7">Quick explanation</font>
+
+183
+00:11:29,407 --> 00:11:33,247
+<font color="#dbdbdb">We have a basic request this represent our basic request handling</font>
+
+184
+00:11:34,015 --> 00:11:39,903
+<font color="#d4d4d4">We have a decorator middleware logs and cashing on authentication right</font>
+
+185
+00:11:40,159 --> 00:11:44,255
+<font color="#c4c4c4">On the program class setup the login cashing Authentication</font>
+
+186
+00:11:44,511 --> 00:11:45,791
+<font color="#a8a8a8">Thumb process the request</font>
+
+187
+00:11:46,047 --> 00:11:50,399
+<font color="#d9d9d9">On the process method in each middleware either continues to the next middleware</font>
+
+188
+00:11:52,703 --> 00:11:56,287
+<font color="#f6f6f6">Or stop the processing based on conditions right</font>
+
+189
+00:11:57,567 --> 00:12:03,711
+<font color="#ededed">We have a cashing we don't have any problem but if you have an authentication problem we are not continue the process</font>
+
+190
+00:12:03,967 --> 00:12:06,271
+<font color="#989898">That's right we are stopping on Chromecast here</font>
+
+191
+00:12:07,551 --> 00:12:10,111
+<font color="#d0d0d0">On the process and this</font>
+
+192
+00:12:10,367 --> 00:12:15,999
+<font color="#d1d1d1">Captures the essence of how medal wears work in real life applications</font>
+
+193
+00:12:16,255 --> 00:12:18,047
+<font color="#a6a6a6">And simplified manner</font>
+
+194
+00:12:18,559 --> 00:12:23,935
+<font color="#c6c6c6">And the most of the Frameworks like that that's actually a lot of them already implement</font>
+
+195
+00:12:24,703 --> 00:12:26,239
+<font color="#e0e0e0">You are only using dump</font>
+
+196
+00:12:26,495 --> 00:12:28,287
+<font color="#bfbfbf">But the logic behind them is</font>
+
+197
+00:12:28,543 --> 00:12:31,359
+<font color="#969696">And this is very common use case</font>
+
+198
+00:12:32,127 --> 00:12:32,895
+<font color="#424242">This Pat</font>

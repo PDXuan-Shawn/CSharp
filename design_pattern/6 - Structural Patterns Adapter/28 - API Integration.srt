@@ -1,0 +1,899 @@
+﻿1
+00:00:00,512 --> 00:00:04,864
+<font color="#e1e1e1">We will talk about adapter</font>
+
+2
+00:00:05,120 --> 00:00:07,424
+<font color="#e8e8e8">Design pattern implementation</font>
+
+3
+00:00:07,680 --> 00:00:13,056
+<font color="#aaaaaa">Alaska considered a scenario where your application is integrating with</font>
+
+4
+00:00:13,312 --> 00:00:19,200
+<font color="#c1c1c1">Different weather apis in is very common usage of adapter pattern</font>
+
+5
+00:00:20,736 --> 00:00:23,808
+<font color="#bababa">Imagine one provides</font>
+
+6
+00:00:24,576 --> 00:00:27,648
+<font color="#e1e1e1">Data in Json format</font>
+
+7
+00:00:27,904 --> 00:00:30,464
+<font color="#d0d0d0">The other provides data in</font>
+
+8
+00:00:30,720 --> 00:00:31,744
+<font color="#c2c2c2">XML format</font>
+
+9
+00:00:32,000 --> 00:00:32,768
+<font color="#ebebeb">However</font>
+
+10
+00:00:33,024 --> 00:00:36,352
+<font color="#f8f8f8">Your application is designed to work primarily</font>
+
+11
+00:00:37,888 --> 00:00:44,032
+<font color="#b3b3b3">Does seamlessly integrate Water Pass without making extensive changes to</font>
+
+12
+00:00:45,312 --> 00:00:50,432
+<font color="#b3b3b3">You can use adapter puzzle and lattice Implement that</font>
+
+13
+00:00:51,200 --> 00:00:51,968
+<font color="#8a8a8a">Parsley</font>
+
+14
+00:00:52,224 --> 00:00:53,504
+<font color="#fdfdfd">We are</font>
+
+15
+00:00:53,760 --> 00:00:57,856
+<font color="#cdcdcd">Like to say the expected</font>
+
+16
+00:00:58,880 --> 00:01:00,672
+<font color="#bababa">Jason</font>
+
+17
+00:01:00,928 --> 00:01:03,232
+<font color="#a5a5a5">CarMax Enterprise</font>
+
+18
+00:01:03,744 --> 00:01:09,888
+<font color="#444444">Turn off flashlight</font>
+
+19
+00:01:10,144 --> 00:01:13,472
+<font color="#dadada">We have a public interface</font>
+
+20
+00:01:13,728 --> 00:01:16,800
+<font color="#adadad">Let's call it by Jason</font>
+
+21
+00:01:17,056 --> 00:01:18,336
+<font color="#dfdfdf">Weather</font>
+
+22
+00:01:18,592 --> 00:01:23,456
+<font color="#9b9b9b">Pearl weather and this is Jason weather provider</font>
+
+23
+00:01:24,224 --> 00:01:24,992
+<font color="#b4b4b4">Yes</font>
+
+24
+00:01:25,760 --> 00:01:26,784
+<font color="#464646">Return</font>
+
+25
+00:01:27,296 --> 00:01:33,184
+<font color="#c0c0c0">Strange last say I just don't like expected okay</font>
+
+26
+00:01:34,976 --> 00:01:37,280
+<font color="#bfbfbf">Weather</font>
+
+27
+00:01:37,536 --> 00:01:39,328
+<font color="#a3a3a3">Jason okay</font>
+
+28
+00:01:41,632 --> 00:01:47,776
+<font color="#e8e8e8">Will I say we have a first API on our</font>
+
+29
+00:01:48,032 --> 00:01:50,080
+<font color="#acacac">Play P by directly</font>
+
+30
+00:01:50,592 --> 00:01:52,384
+<font color="#6d6d6d">Pro wise</font>
+
+31
+00:01:54,688 --> 00:01:55,456
+<font color="#a6a6a6">Weather</font>
+
+32
+00:01:56,480 --> 00:01:57,504
+<font color="#d3d3d3">Weather</font>
+
+33
+00:01:57,760 --> 00:02:03,904
+<font color="#d6d6d6">Weather in Jacksonville Florida and also I will put all of the calls into resources</font>
+
+34
+00:02:04,416 --> 00:02:06,976
+<font color="#f5f5f5">You can check after the lesson</font>
+
+35
+00:02:07,232 --> 00:02:09,024
+<font color="#bdbdbd">Remember or you</font>
+
+36
+00:02:10,304 --> 00:02:12,096
+<font color="#eeeeee">You can try to run</font>
+
+37
+00:02:12,352 --> 00:02:14,656
+<font color="#c9c9c9">Wake me up so you can</font>
+
+38
+00:02:14,912 --> 00:02:21,056
+<font color="#cfcfcf">Coffee pot in dotnet federal and make some changes extensions and you can test</font>
+
+39
+00:02:21,824 --> 00:02:27,968
+<font color="#a8a8a8">Jason Weather Service and it is inheritance from that one</font>
+
+40
+00:02:28,224 --> 00:02:34,368
+<font color="#d5d5d5">Of course we will not making a call tort API we will return</font>
+
+41
+00:02:34,624 --> 00:02:38,208
+<font color="#d2d2d2">Play Beethoven that way you can understand</font>
+
+42
+00:02:38,464 --> 00:02:39,488
+<font color="#707070">Pattern</font>
+
+43
+00:02:41,792 --> 00:02:43,328
+<font color="#e8e8e8">Main purpose is not</font>
+
+44
+00:02:43,584 --> 00:02:48,960
+<font color="#dbdbdb">Implementing an API call we are trying to understand concept</font>
+
+45
+00:02:49,216 --> 00:02:53,056
+<font color="#bababa">Let's return Jason formats</font>
+
+46
+00:02:53,824 --> 00:02:56,384
+<font color="#f4f4f4">Stream we have a temperature</font>
+
+47
+00:02:56,640 --> 00:03:02,784
+<font color="#bdbdbd">That's very basic one last day we have with it is returning the temperature now</font>
+
+48
+00:03:03,040 --> 00:03:09,184
+<font color="#a6a6a6">Play in our cast to 292 we also the Apple Store returning to condition</font>
+
+49
+00:03:09,440 --> 00:03:11,232
+<font color="#b6b6b6">I want to say it is sunny</font>
+
+50
+00:03:11,744 --> 00:03:12,768
+<font color="#e0e0e0">In our case</font>
+
+51
+00:03:13,280 --> 00:03:15,072
+<font color="#f1f1f1">After that</font>
+
+52
+00:03:16,096 --> 00:03:21,984
+<font color="#cecece">In this case we don't have any problem because our Jason mother service</font>
+
+53
+00:03:22,240 --> 00:03:26,848
+<font color="#b6b6b6">Is expecting that Jason format and it is returning Jason</font>
+
+54
+00:03:28,128 --> 00:03:34,016
+<font color="#cdcdcd">We also have a letter says second API</font>
+
+55
+00:03:34,784 --> 00:03:36,064
+<font color="#dfdfdf">API</font>
+
+56
+00:03:36,320 --> 00:03:37,856
+<font color="#a4a4a4">And this API</font>
+
+57
+00:03:38,624 --> 00:03:42,720
+<font color="#707070">At 7:00</font>
+
+58
+00:03:44,512 --> 00:03:46,048
+<font color="#d6d6d6">I'm passing Cartier</font>
+
+59
+00:03:46,560 --> 00:03:48,864
+<font color="#dbdbdb">We have a second API</font>
+
+60
+00:03:50,912 --> 00:03:52,704
+<font color="#f0f0f0">Does API</font>
+
+61
+00:03:53,216 --> 00:03:54,752
+<font color="#c0c0c0">Pearl lights</font>
+
+62
+00:03:55,520 --> 00:03:57,568
+<font color="#4f4f4f">Pro wise</font>
+
+63
+00:03:59,872 --> 00:04:02,688
+<font color="#e2e2e2">Weather okay weather in</font>
+
+64
+00:04:03,200 --> 00:04:04,480
+<font color="#c5c5c5">Example format</font>
+
+65
+00:04:05,248 --> 00:04:09,344
+<font color="#e1e1e1">Maybe in your case it can be another form</font>
+
+66
+00:04:11,392 --> 00:04:14,208
+<font color="#bababa">We are returning Polly clothes</font>
+
+67
+00:04:14,720 --> 00:04:15,488
+<font color="#353535">Exam</font>
+
+68
+00:04:15,744 --> 00:04:19,327
+<font color="#a1a1a1">Let's play crate or fake email</font>
+
+69
+00:04:19,583 --> 00:04:20,607
+<font color="#e1e1e1">Weather</font>
+
+70
+00:04:20,863 --> 00:04:23,679
+<font color="#d9d9d9">Service do you see the problem</font>
+
+71
+00:04:24,447 --> 00:04:28,287
+<font color="#e6e6e6">Don't forget design patterns is</font>
+
+72
+00:04:29,567 --> 00:04:32,639
+<font color="#e3e3e3">Good Solutions maybe the best Solutions</font>
+
+73
+00:04:32,895 --> 00:04:39,039
+<font color="#e3e3e3">Very common software engineering problems for explaining all the problems is the</font>
+
+74
+00:04:39,295 --> 00:04:41,855
+<font color="#9b9b9b">Best way to understand it</font>
+
+75
+00:04:42,367 --> 00:04:45,951
+<font color="#b1b1b1">We eaters get weather</font>
+
+76
+00:04:46,463 --> 00:04:48,767
+<font color="#b2b2b2">Instead of get weather Jason</font>
+
+77
+00:04:49,023 --> 00:04:50,559
+<font color="#dddddd">It is get weather</font>
+
+78
+00:04:51,327 --> 00:04:52,351
+<font color="#232323">Examine</font>
+
+79
+00:04:53,887 --> 00:04:55,679
+<font color="#b8b8b8">And pointless say</font>
+
+80
+00:04:55,935 --> 00:04:57,983
+<font color="#bcbcbc">Does get water exam</font>
+
+81
+00:04:59,007 --> 00:05:00,287
+<font color="#cccccc">Is returning</font>
+
+82
+00:05:00,543 --> 00:05:01,311
+<font color="#919191">Eczema</font>
+
+83
+00:05:02,079 --> 00:05:08,223
+<font color="#b6b6b6">What is returning examine format data and you know in the XML</font>
+
+84
+00:05:08,479 --> 00:05:09,247
+<font color="#f4f4f4">We</font>
+
+85
+00:05:11,551 --> 00:05:12,831
+<font color="#898989">Like this one</font>
+
+86
+00:05:13,343 --> 00:05:14,111
+<font color="#cbcbcb">We are using</font>
+
+87
+00:05:14,367 --> 00:05:16,671
+<font color="#b6b6b6">This format for XML</font>
+
+88
+00:05:17,183 --> 00:05:19,743
+<font color="#676767">Too much</font>
+
+89
+00:05:19,999 --> 00:05:21,023
+<font color="#949494">It does not</font>
+
+90
+00:05:26,399 --> 00:05:27,935
+<font color="#b6b6b6">Do you have to</font>
+
+91
+00:05:28,703 --> 00:05:30,751
+<font color="#929292">Complete that like this</font>
+
+92
+00:05:31,263 --> 00:05:34,335
+<font color="#757575">And we also copypasta as well</font>
+
+93
+00:05:38,687 --> 00:05:42,783
+<font color="#f3f3f3">And we also have a condition right</font>
+
+94
+00:05:45,855 --> 00:05:47,903
+<font color="#f0f0f0">We have condition</font>
+
+95
+00:05:48,671 --> 00:05:50,463
+<font color="#b1b1b1">Why is this giving you a ride I don't know</font>
+
+96
+00:05:52,767 --> 00:05:54,559
+<font color="#e0e0e0">Weather condition</font>
+
+97
+00:05:55,327 --> 00:05:56,095
+<font color="#6e6e6e">Add this</font>
+
+98
+00:05:59,935 --> 00:06:04,287
+<font color="#dedede">Close condition we don't need whether we don't need</font>
+
+99
+00:06:06,079 --> 00:06:07,103
+<font color="#f4f4f4">Temperature here</font>
+
+100
+00:06:11,967 --> 00:06:15,807
+<font color="#d3d3d3">Together temperature weather temperature condition</font>
+
+101
+00:06:20,415 --> 00:06:21,439
+<font color="#e7e7e7">But we have</font>
+
+102
+00:06:22,463 --> 00:06:23,743
+<font color="#eeeeee">Clothes that in here</font>
+
+103
+00:06:25,535 --> 00:06:30,143
+<font color="#c7c7c7">Weather temperature closed conditions and condition cost okay</font>
+
+104
+00:06:30,911 --> 00:06:33,727
+<font color="#dadada">I'm done we have a problem</font>
+
+105
+00:06:33,983 --> 00:06:38,079
+<font color="#d8d8d8">The problem is we have to convert our exam out from</font>
+
+106
+00:06:38,591 --> 00:06:44,735
+<font color="#bfbfbf">Isabel Weather Service to Jason right we don't want to change our old</font>
+
+107
+00:06:44,991 --> 00:06:47,039
+<font color="#cbcbcb">Hold on still we want to work</font>
+
+108
+00:06:47,295 --> 00:06:48,063
+<font color="#f3f3f3">What does</font>
+
+109
+00:06:48,319 --> 00:06:50,111
+<font color="#eaeaea">API</font>
+
+110
+00:06:50,367 --> 00:06:51,391
+<font color="#858585">Lattice</font>
+
+111
+00:06:52,671 --> 00:06:57,791
+<font color="#dadada">Adapter into game and we are it has to converse</font>
+
+112
+00:06:59,071 --> 00:07:00,607
+<font color="#787878">Is Jamal</font>
+
+113
+00:07:04,447 --> 00:07:09,055
+<font color="#909090">Examine weather Las Vegas Nevada service</font>
+
+114
+00:07:11,359 --> 00:07:12,639
+<font color="#b3b3b3">You will see how we</font>
+
+115
+00:07:12,895 --> 00:07:15,711
+<font color="#ebebeb">Solve the problem to Jason</font>
+
+116
+00:07:16,223 --> 00:07:19,551
+<font color="#cbcbcb">And we have a public</font>
+
+117
+00:07:20,319 --> 00:07:22,623
+<font color="#aeaeae">Is a mile</font>
+
+118
+00:07:24,159 --> 00:07:25,183
+<font color="#dddddd">Jason</font>
+
+119
+00:07:26,207 --> 00:07:27,487
+<font color="#dfdfdf">Weather</font>
+
+120
+00:07:27,743 --> 00:07:28,767
+<font color="#656565">Adapters</font>
+
+121
+00:07:31,839 --> 00:07:33,631
+<font color="#f2f2f2">We are inheriting from that</font>
+
+122
+00:07:35,167 --> 00:07:36,191
+<font color="#f2f2f2">Did you see</font>
+
+123
+00:07:36,447 --> 00:07:37,983
+<font color="#f8f8f8">We are</font>
+
+124
+00:07:38,239 --> 00:07:43,359
+<font color="#a9a9a9">Behaving or is a mi Weather Service as a this format</font>
+
+125
+00:07:43,615 --> 00:07:49,759
+<font color="#e6e6e6">If we are getting that in this format we have to implement that one right otherwise it will</font>
+
+126
+00:07:51,039 --> 00:07:52,575
+<font color="#d8d8d8">On this case</font>
+
+127
+00:07:53,087 --> 00:07:56,671
+<font color="#d1d1d1">Lotus say we are getting</font>
+
+128
+00:07:58,463 --> 00:08:03,327
+<font color="#d8d8d8">How to give the service as a reliable hair</font>
+
+129
+00:08:03,839 --> 00:08:09,983
+<font color="#ebebeb">Dependency injection for that but I will not die into that</font>
+
+130
+00:08:10,239 --> 00:08:11,263
+<font color="#e7e7e7">Read only</font>
+
+131
+00:08:11,775 --> 00:08:13,567
+<font color="#e2e2e2">Let's say we have</font>
+
+132
+00:08:14,079 --> 00:08:16,383
+<font color="#b7b7b7">Example Weather Service</font>
+
+133
+00:08:16,895 --> 00:08:17,663
+<font color="#c6c6c6">In here</font>
+
+134
+00:08:19,711 --> 00:08:20,479
+<font color="#1d1d1d">Ed</font>
+
+135
+00:08:20,735 --> 00:08:22,271
+<font color="#cfcfcf">Weather Service</font>
+
+136
+00:08:24,063 --> 00:08:26,367
+<font color="#adadad">In our Constructor</font>
+
+137
+00:08:26,879 --> 00:08:28,415
+<font color="#e0e0e0">We are inherit</font>
+
+138
+00:08:28,671 --> 00:08:30,207
+<font color="#929292">Start crying that</font>
+
+139
+00:08:30,975 --> 00:08:33,535
+<font color="#d3d3d3">Jason adapter</font>
+
+140
+00:08:34,047 --> 00:08:37,887
+<font color="#b6b6b6">Weather Service as a parameter</font>
+
+141
+00:08:39,423 --> 00:08:41,471
+<font color="#c6c6c6">And I am assigning</font>
+
+142
+00:08:41,983 --> 00:08:43,519
+<font color="#3f3f3f">What's the weather right now</font>
+
+143
+00:08:44,031 --> 00:08:47,615
+<font color="#c6c6c6">On the examine Weather Service has to be</font>
+
+144
+00:08:52,223 --> 00:08:54,527
+<font color="#d5d5d5">But in get weather Jason</font>
+
+145
+00:08:56,319 --> 00:09:02,463
+<font color="#b2b2b2">Last night in get weather this weekend we can't give a parameter here if we can give parameter Maybe</font>
+
+146
+00:09:02,719 --> 00:09:04,767
+<font color="#cccccc">How tall is as a perimeter we can maybe</font>
+
+147
+00:09:05,279 --> 00:09:09,119
+<font color="#dbdbdb">Make another ThinkPad we have to let's say</font>
+
+148
+00:09:10,655 --> 00:09:16,543
+<font color="#dadada">Presentation by the way in the real world you would like to use the exam out</font>
+
+149
+00:09:16,799 --> 00:09:20,383
+<font color="#c0c0c0">Jason conversion library at his existing</font>
+
+150
+00:09:20,895 --> 00:09:22,687
+<font color="#bfbfbf">Wilton Library is by the Bay</font>
+
+151
+00:09:22,943 --> 00:09:24,479
+<font color="#999999">Pause currently</font>
+
+152
+00:09:24,735 --> 00:09:25,503
+<font color="#6a6a6a">Strange</font>
+
+153
+00:09:25,759 --> 00:09:31,903
+<font color="#d7d7d7">Is a male data will come into this one and we can get this data like</font>
+
+154
+00:09:32,671 --> 00:09:34,207
+<font color="#878787">Example</font>
+
+155
+00:09:36,255 --> 00:09:42,399
+<font color="#e1e1e1">You have to add convert to Jason logic here</font>
+
+156
+00:09:42,655 --> 00:09:44,191
+<font color="#919191">Are caught</font>
+
+157
+00:09:45,727 --> 00:09:47,775
+<font color="#f1f1f1">I'm not adding that to make</font>
+
+158
+00:09:48,031 --> 00:09:50,591
+<font color="#cacaca">Play to keep that simple and returning that one</font>
+
+159
+00:09:51,103 --> 00:09:54,943
+<font color="#929292">I'm done we have a two a p on vrb</font>
+
+160
+00:09:55,199 --> 00:09:56,735
+<font color="#f2f2f2">We are simulating</font>
+
+161
+00:09:57,503 --> 00:10:03,391
+<font color="#bbbbbb">Sorry we are inheriting board of down from I just saw my Jason weather provider</font>
+
+162
+00:10:03,903 --> 00:10:08,511
+<font color="#cecece">I am behaving examine with adapter like at this one</font>
+
+163
+00:10:09,023 --> 00:10:11,071
+<font color="#9b9b9b">If there's like Jason leather service</font>
+
+164
+00:10:11,583 --> 00:10:13,119
+<font color="#939393">Example Weather Service is</font>
+
+165
+00:10:14,399 --> 00:10:15,167
+<font color="#bebebe">Behaving like</font>
+
+166
+00:10:16,447 --> 00:10:17,983
+<font color="#c5c5c5">Jason Weather Service</font>
+
+167
+00:10:19,263 --> 00:10:20,031
+<font color="#7f7f7f">Lattice</font>
+
+168
+00:10:20,799 --> 00:10:21,567
+<font color="#c0c0c0">Radar</font>
+
+169
+00:10:22,079 --> 00:10:22,847
+<font color="#6d6d6d">Test</font>
+
+170
+00:10:23,359 --> 00:10:27,455
+<font color="#aeaeae">We need to adjust some water provider for sleep right</font>
+
+171
+00:10:27,711 --> 00:10:28,991
+<font color="#c9c9c9">Let's call</font>
+
+172
+00:10:29,247 --> 00:10:33,087
+<font color="#bdbdbd">Jason Torres and his Jason service</font>
+
+173
+00:10:34,111 --> 00:10:35,391
+<font color="#c6c6c6">You're already</font>
+
+174
+00:10:37,183 --> 00:10:38,719
+<font color="#a8a8a8">Guess I guess new</font>
+
+175
+00:10:39,231 --> 00:10:40,255
+<font color="#bababa">Jason</font>
+
+176
+00:10:40,511 --> 00:10:41,791
+<font color="#f8f8f8">Let me improve</font>
+
+177
+00:10:42,815 --> 00:10:45,887
+<font color="#dbdbdb">Increase the size Jason Weather Service</font>
+
+178
+00:10:48,447 --> 00:10:53,311
+<font color="#b8b8b8">On this Jason Weather Service right line</font>
+
+179
+00:10:55,103 --> 00:10:58,431
+<font color="#d6d6d6">They are only calling Jason Weather Service</font>
+
+180
+00:10:59,455 --> 00:11:00,735
+<font color="#adadad">Get the weather Jason</font>
+
+181
+00:11:02,271 --> 00:11:03,807
+<font color="#818181">On wheels</font>
+
+182
+00:11:05,087 --> 00:11:07,135
+<font color="#d8d8d8">Jason service directly</font>
+
+183
+00:11:07,391 --> 00:11:09,183
+<font color="#b1b1b1">Jason Jarvis</font>
+
+184
+00:11:10,719 --> 00:11:15,071
+<font color="#c3c3c3">I only I also oh my gosh how many parentheses is iOS</font>
+
+185
+00:11:21,215 --> 00:11:26,079
+<font color="#f8f8f8">In a little later I decided to use the other one</font>
+
+186
+00:11:27,871 --> 00:11:29,407
+<font color="#989898">We have an exam</font>
+
+187
+00:11:29,919 --> 00:11:32,479
+<font color="#9d9d9d">Example of Weather Service right</font>
+
+188
+00:11:32,991 --> 00:11:34,527
+<font color="#adadad">Last call</font>
+
+189
+00:11:35,551 --> 00:11:37,855
+<font color="#6e6e6e">Weather Service</font>
+
+190
+00:11:38,623 --> 00:11:41,951
+<font color="#d5d5d5">And it has to be new XML</font>
+
+191
+00:11:42,975 --> 00:11:45,535
+<font color="#9e9e9e">What is our eczema Weather Service</font>
+
+192
+00:11:49,375 --> 00:11:51,423
+<font color="#bfbfbf">Weather Service</font>
+
+193
+00:11:52,703 --> 00:11:53,471
+<font color="#f3f3f3">I want</font>
+
+194
+00:11:53,727 --> 00:11:55,775
+<font color="#ececec">Jason weather provider</font>
+
+195
+00:11:56,287 --> 00:11:58,335
+<font color="#ececec">Adapter I want to create that</font>
+
+196
+00:11:58,847 --> 00:11:59,871
+<font color="#4a4a4a">Farting</font>
+
+197
+00:12:00,127 --> 00:12:04,479
+<font color="#d5d5d5">Example to Jason adapter I am giving this one as perimeter</font>
+
+198
+00:12:05,247 --> 00:12:07,039
+<font color="#e4e4e4">I'm done you will see</font>
+
+199
+00:12:11,135 --> 00:12:11,903
+<font color="#cdcdcd">Adapter</font>
+
+200
+00:12:12,159 --> 00:12:13,439
+<font color="#898989">Jason mother provid</font>
+
+201
+00:12:14,719 --> 00:12:15,999
+<font color="#808080">I did some other provid</font>
+
+202
+00:12:20,351 --> 00:12:23,423
+<font color="#cacaca">I got a i Jason weather provider</font>
+
+203
+00:12:23,935 --> 00:12:25,983
+<font color="#cccccc">Adapter</font>
+
+204
+00:12:26,239 --> 00:12:28,031
+<font color="#929292">Start yet weather Jason</font>
+
+205
+00:12:29,567 --> 00:12:31,615
+<font color="#c7c7c7">Use adapter</font>
+
+206
+00:12:31,871 --> 00:12:33,407
+<font color="#e5e5e5">Okay that's wrong</font>
+
+207
+00:12:33,663 --> 00:12:34,431
+<font color="#aaaaaa">And maybe</font>
+
+208
+00:12:34,943 --> 00:12:39,551
+<font color="#cdcdcd">Okay both are returning to the same thing and let me explain the quote one by one</font>
+
+209
+00:12:40,063 --> 00:12:43,135
+<font color="#b0b0b0">We firstly have a I just another provider</font>
+
+210
+00:12:43,391 --> 00:12:44,927
+<font color="#c9c9c9">And this is an interface</font>
+
+211
+00:12:45,183 --> 00:12:50,047
+<font color="#bcbcbc">Our application Xbox right which includes that match to get weather today in Jason format</font>
+
+212
+00:12:50,559 --> 00:12:53,119
+<font color="#d2d2d2">I'm done we have a Jason Weather Service</font>
+
+213
+00:12:53,375 --> 00:12:59,263
+<font color="#c2c2c2">It represents the first API and which direction provides the weather radar in Jason form</font>
+
+214
+00:12:59,775 --> 00:13:02,847
+<font color="#cecece">I'm done we have an example Weather Service</font>
+
+215
+00:13:03,359 --> 00:13:09,503
+<font color="#cccccc">And we have a problem because represent the second API and each it provides later in</font>
+
+216
+00:13:11,039 --> 00:13:17,183
+<font color="#c8c8c8">Choose all this problem we have eczema out to Jason weather adapter and these are electrical</font>
+
+217
+00:13:17,951 --> 00:13:21,023
+<font color="#dddddd">It takes an instance of XML Weather Service</font>
+
+218
+00:13:22,047 --> 00:13:25,375
+<font color="#b0b0b0">Unemployment I just some other provider interface</font>
+
+219
+00:13:25,631 --> 00:13:31,775
+<font color="#bcbcbc">Inside the get whether Jason method it covers is a later to Jason and the client</font>
+
+220
+00:13:32,031 --> 00:13:32,799
+<font color="#c3c3c3">Can I</font>
+
+221
+00:13:34,079 --> 00:13:40,223
+<font color="#b0b0b0">Can you use the boat services interchangeable right with Hardware in care about their</font>
+
+222
+00:13:41,759 --> 00:13:45,599
+<font color="#bababa">The adapter pattern ensures that consistent interface for the client</font>
+
+223
+00:13:45,855 --> 00:13:50,207
+<font color="#cecece">Why are you abstracting away the complexities of data transformation</font>
+
+224
+00:13:50,719 --> 00:13:52,767
+<font color="#f8f8f8">This is how you can implement</font>
+
+225
+00:13:54,303 --> 00:13:56,095
+<font color="#f6f6f6">Adapter pattern for</font>

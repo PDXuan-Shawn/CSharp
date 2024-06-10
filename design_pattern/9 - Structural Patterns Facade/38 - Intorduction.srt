@@ -1,0 +1,499 @@
+﻿1
+00:00:01,280 --> 00:00:03,328
+<font color="#848484">How low programming get news</font>
+
+2
+00:00:03,840 --> 00:00:08,192
+<font color="#d0d0d0">Have you ever seen a beautiful design building fast</font>
+
+3
+00:00:08,704 --> 00:00:12,032
+<font color="#e3e3e3">That has all the internet complexity behind it</font>
+
+4
+00:00:12,544 --> 00:00:17,664
+<font color="#d5d5d5">Today we are going to Darwin to analogous Concept in the world of program</font>
+
+5
+00:00:18,176 --> 00:00:19,456
+<font color="#919191">The facade pattern</font>
+
+6
+00:00:20,224 --> 00:00:22,272
+<font color="#cfcfcf">So what is facade</font>
+
+7
+00:00:23,040 --> 00:00:25,600
+<font color="#bbbbbb">Think about the building for Southmost</font>
+
+8
+00:00:25,856 --> 00:00:27,648
+<font color="#989898">It provides a simple</font>
+
+9
+00:00:27,904 --> 00:00:29,440
+<font color="#a3a3a3">Attractive front</font>
+
+10
+00:00:29,696 --> 00:00:32,256
+<font color="#9b9b9b">Cancel all the complex in the workings</font>
+
+11
+00:00:33,792 --> 00:00:36,352
+<font color="#a2a2a2">A similar purpose</font>
+
+12
+00:00:36,864 --> 00:00:39,680
+<font color="#d4d4d4">Is paralysis simplified Enterprise</font>
+
+13
+00:00:39,936 --> 00:00:41,728
+<font color="#a7a7a7">Play complex subsystem</font>
+
+14
+00:00:41,984 --> 00:00:43,776
+<font color="#6a6a6a">Is making it easier to</font>
+
+15
+00:00:44,288 --> 00:00:46,080
+<font color="#eeeeee">Let's talk about the</font>
+
+16
+00:00:47,104 --> 00:00:49,408
+<font color="#c7c7c7">It has the finding trees</font>
+
+17
+00:00:49,664 --> 00:00:51,968
+<font color="#969696">Primarily it until</font>
+
+18
+00:00:52,224 --> 00:00:52,992
+<font color="#828282">What's a sing</font>
+
+19
+00:00:53,248 --> 00:00:54,784
+<font color="#939393">In a fight Enterprise</font>
+
+20
+00:00:55,040 --> 00:00:58,112
+<font color="#c7c7c7">Is that house from the complexities of a sub</font>
+
+21
+00:00:58,624 --> 00:01:00,928
+<font color="#a1a1a1">Is just like welding for aside</font>
+
+22
+00:01:01,440 --> 00:01:04,000
+<font color="#cfcfcf">How is all the architectural complexities</font>
+
+23
+00:01:04,256 --> 00:01:04,768
+<font color="#adadad">What's behind</font>
+
+24
+00:01:05,280 --> 00:01:06,048
+<font color="#656565">Second</font>
+
+25
+00:01:06,304 --> 00:01:07,584
+<font color="#4a4a4a">If an hust</font>
+
+26
+00:01:07,840 --> 00:01:10,144
+<font color="#999999">Use the Ability and reduces</font>
+
+27
+00:01:10,400 --> 00:01:11,424
+<font color="#d3d3d3">Client</font>
+
+28
+00:01:11,680 --> 00:01:12,448
+<font color="#6d6d6d">Complexity</font>
+
+29
+00:01:12,960 --> 00:01:13,728
+<font color="#eeeeee">Similar to</font>
+
+30
+00:01:13,984 --> 00:01:16,800
+<font color="#b6b6b6">How a well-designed welding</font>
+
+31
+00:01:17,568 --> 00:01:20,384
+<font color="#bbbbbb">Cancel the flight the understanding of the building</font>
+
+32
+00:01:21,920 --> 00:01:24,480
+<font color="#d2d2d2">Let's talk about the benefits and also</font>
+
+33
+00:01:24,736 --> 00:01:25,248
+<font color="#545454">Throw</font>
+
+34
+00:01:26,016 --> 00:01:29,088
+<font color="#c3c3c3">Like a wild constructed building facade</font>
+
+35
+00:01:29,344 --> 00:01:31,648
+<font color="#a8a8a8">The facade pattern Banks is benefit</font>
+
+36
+00:01:33,952 --> 00:01:34,720
+<font color="#b4b4b4">First one</font>
+
+37
+00:01:34,976 --> 00:01:36,000
+<font color="#737373">Simplify</font>
+
+38
+00:01:36,256 --> 00:01:37,024
+<font color="#c7c7c7">Enterprise</font>
+
+39
+00:01:37,280 --> 00:01:41,888
+<font color="#c6c6c6">Complex</font>
+
+40
+00:01:42,912 --> 00:01:43,936
+<font color="#f4f4f4">Is similar to</font>
+
+41
+00:01:44,192 --> 00:01:45,728
+<font color="#959595">How a welding FAQ</font>
+
+42
+00:01:45,984 --> 00:01:50,336
+<font color="#aeaeae">Office at 5:00 p.m. of the architectural complexity behind</font>
+
+43
+00:01:51,104 --> 00:01:51,872
+<font color="#f0f0f0">Second one</font>
+
+44
+00:01:52,896 --> 00:01:53,408
+<font color="#1a1a1a">Coup</font>
+
+45
+00:01:53,920 --> 00:01:54,688
+<font color="#959595">The promos</font>
+
+46
+00:01:54,944 --> 00:01:55,712
+<font color="#3d3d3d">Is prom</font>
+
+47
+00:01:55,968 --> 00:01:58,016
+<font color="#969696">What's the lowest coupling between subsystem</font>
+
+48
+00:01:58,272 --> 00:02:02,624
+<font color="#b8b8b8">The interactions</font>
+
+49
+00:02:02,880 --> 00:02:03,648
+<font color="#4f4f4f">Bathinda</font>
+
+50
+00:02:03,904 --> 00:02:07,488
+<font color="#cbcbcb">Is similar to how a facade surprise the exterior</font>
+
+51
+00:02:07,744 --> 00:02:08,768
+<font color="#adadad">From the comp</font>
+
+52
+00:02:09,024 --> 00:02:10,304
+<font color="#e3e3e3">Entire of</font>
+
+53
+00:02:11,584 --> 00:02:13,376
+<font color="#ededed">Okay however</font>
+
+54
+00:02:13,888 --> 00:02:15,680
+<font color="#b9b9b9">Not all is Roos</font>
+
+55
+00:02:17,984 --> 00:02:21,056
+<font color="#d3d3d3">Throwback is limited customizability</font>
+
+56
+00:02:21,312 --> 00:02:24,896
+<font color="#cccccc">Access to a complex</font>
+
+57
+00:02:25,152 --> 00:02:25,664
+<font color="#d5d5d5">Stop system</font>
+
+58
+00:02:26,176 --> 00:02:28,224
+<font color="#cccccc">It's male I mean it's more complex</font>
+
+59
+00:02:28,480 --> 00:02:29,760
+<font color="#878787">Or customer</font>
+
+60
+00:02:30,272 --> 00:02:32,576
+<font color="#9a9a9a">It's just like a welding FAQ</font>
+
+61
+00:02:34,112 --> 00:02:36,160
+<font color="#b6b6b6">The werewolf entire Str</font>
+
+62
+00:02:36,928 --> 00:02:37,440
+<font color="#eeeeee">Second one</font>
+
+63
+00:02:37,952 --> 00:02:40,256
+<font color="#d8d8d8">Possibility of becoming a monolith</font>
+
+64
+00:02:40,512 --> 00:02:42,304
+<font color="#c5c5c5">It's not careful design</font>
+
+65
+00:02:46,144 --> 00:02:46,912
+<font color="#afafaf">Is the match</font>
+
+66
+00:02:47,168 --> 00:02:48,448
+<font color="#6e6e6e">Play a welding FAQ</font>
+
+67
+00:02:48,704 --> 00:02:49,472
+<font color="#585858">Can be</font>
+
+68
+00:02:49,728 --> 00:02:51,520
+<font color="#545454">2/12</font>
+
+69
+00:02:51,776 --> 00:02:53,568
+<font color="#bfbfbf">If not well design</font>
+
+70
+00:02:54,336 --> 00:02:56,384
+<font color="#acacac">Let's continue with your schedule</font>
+
+71
+00:02:56,896 --> 00:02:58,944
+<font color="#aeaeae">When should we use the fastest pattern</font>
+
+72
+00:03:00,224 --> 00:03:02,272
+<font color="#777777">Lester what are welding for southern</font>
+
+73
+00:03:02,784 --> 00:03:03,552
+<font color="#727272">First</font>
+
+74
+00:03:03,808 --> 00:03:06,624
+<font color="#f4f4f4">Why you want to provide a simple interface</font>
+
+75
+00:03:06,880 --> 00:03:08,160
+<font color="#e2e2e2">Play complex</font>
+
+76
+00:03:08,928 --> 00:03:14,048
+<font color="#bbbbbb">Simplified way of a building</font>
+
+77
+00:03:14,560 --> 00:03:19,424
+<font color="#d6d6d6">The fastest pattern is useful when you have a complex system</font>
+
+78
+00:03:19,680 --> 00:03:20,448
+<font color="#bebebe">That's</font>
+
+79
+00:03:20,960 --> 00:03:21,984
+<font color="#626262">Simplified Enterprise</font>
+
+80
+00:03:23,776 --> 00:03:25,824
+<font color="#8b8b8b">To the couple subsystem</font>
+
+81
+00:03:26,080 --> 00:03:27,104
+<font color="#b1b1b1">From the clients</font>
+
+82
+00:03:31,968 --> 00:03:33,248
+<font color="#eaeaea">From the exterior</font>
+
+83
+00:03:33,504 --> 00:03:35,296
+<font color="#d9d9d9">Can be used</font>
+
+84
+00:03:38,880 --> 00:03:39,392
+<font color="#ececec">Another</font>
+
+85
+00:03:39,648 --> 00:03:40,160
+<font color="#dadada">Stop system</font>
+
+86
+00:03:41,952 --> 00:03:43,488
+<font color="#e6e6e6">Stop system in the panels</font>
+
+87
+00:03:47,584 --> 00:03:48,864
+<font color="#b2b2b2">Call refractor</font>
+
+88
+00:03:49,376 --> 00:03:53,728
+<font color="#bebebe">Similar to Hawaii for South County revamp the look of an old building</font>
+
+89
+00:03:57,312 --> 00:03:58,336
+<font color="#cdcdcd">By providing</font>
+
+90
+00:03:58,592 --> 00:03:59,872
+<font color="#afafaf">I need Enterprise</font>
+
+91
+00:04:00,128 --> 00:04:01,152
+<font color="#b3b3b3">To the old cup</font>
+
+92
+00:04:01,920 --> 00:04:02,432
+<font color="#949494">Fart</font>
+
+93
+00:04:02,944 --> 00:04:03,968
+<font color="#a5a5a5">Happy rappers</font>
+
+94
+00:04:04,224 --> 00:04:05,504
+<font color="#b2b2b2">What's API wrappers</font>
+
+95
+00:04:09,600 --> 00:04:11,648
+<font color="#858585">More convenient interface</font>
+
+96
+00:04:11,904 --> 00:04:13,440
+<font color="#818181">Play complex AP</font>
+
+97
+00:04:15,232 --> 00:04:16,256
+<font color="#2c2c2c">Abstract</font>
+
+98
+00:04:16,512 --> 00:04:17,280
+<font color="#b5b5b5">Complexes</font>
+
+99
+00:04:18,303 --> 00:04:21,375
+<font color="#dbdbdb">In the systems like operating systems are the compilers</font>
+
+100
+00:04:23,167 --> 00:04:24,703
+<font color="#d3d3d3">There are multiple in</font>
+
+101
+00:04:24,959 --> 00:04:26,751
+<font color="#b8b8b8">Interaction security right</font>
+
+102
+00:04:27,263 --> 00:04:31,615
+<font color="#d3d3d3">Can be used with the abstract and simplify this</font>
+
+103
+00:04:31,871 --> 00:04:32,639
+<font color="#1a1a1a">Oper</font>
+
+104
+00:04:33,407 --> 00:04:35,199
+<font color="#868686">And that we have</font>
+
+105
+00:04:35,967 --> 00:04:39,039
+<font color="#535353">Better</font>
+
+106
+00:04:39,551 --> 00:04:42,623
+<font color="#bdbdbd">Why the grandfather is an essential tool</font>
+
+107
+00:04:44,415 --> 00:04:45,439
+<font color="#525252">Is simplify</font>
+
+108
+00:04:46,207 --> 00:04:49,279
+<font color="#dddddd">Interaction with complex subsystem</font>
+
+109
+00:04:49,791 --> 00:04:51,839
+<font color="#fcfcfc">If you have any questions</font>
+
+110
+00:04:52,351 --> 00:04:53,631
+<font color="#959595">Play The Mart</font>
+
+111
+00:04:54,143 --> 00:04:55,679
+<font color="#bebebe">Questions and answer</font>
+
+112
+00:04:56,191 --> 00:04:57,215
+<font color="#ececec">I am here</font>
+
+113
+00:04:57,471 --> 00:05:00,287
+<font color="#e3e3e3">If you are finding the</font>
+
+114
+00:05:00,543 --> 00:05:01,311
+<font color="#909090">Volume</font>
+
+115
+00:05:02,335 --> 00:05:03,359
+<font color="#848484">Levy radio</font>
+
+116
+00:05:03,615 --> 00:05:04,639
+<font color="#494949">All right</font>
+
+117
+00:05:05,407 --> 00:05:07,455
+<font color="#e4e4e4">Feedback is the scaffolding</font>
+
+118
+00:05:07,711 --> 00:05:09,503
+<font color="#d7d7d7">That supports better contact</font>
+
+119
+00:05:10,015 --> 00:05:12,575
+<font color="#c1c1c1">Turn off your progress here</font>
+
+120
+00:05:12,831 --> 00:05:15,903
+<font color="#aeaeae">Does the last architectural model of know</font>
+
+121
+00:05:17,951 --> 00:05:18,975
+<font color="#bcbcbc">And you surely</font>
+
+122
+00:05:19,231 --> 00:05:21,023
+<font color="#e0e0e0">Don't want to skip</font>
+
+123
+00:05:21,535 --> 00:05:24,863
+<font color="#e0e0e0">Thanks for being with me today for</font>
+
+124
+00:05:25,119 --> 00:05:25,887
+<font color="#a8a8a8">Keep quiet</font>
+
+125
+00:05:26,143 --> 00:05:29,471
+<font color="#c0c0c0">Skip construction and see you in our next less</font>
