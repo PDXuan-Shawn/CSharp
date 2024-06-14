@@ -60,16 +60,12 @@ public static class PaymentGatewayFactory
 				return new CryptoPaymentGateway();
 			default:
 				throw new ArgumentException("Invalid payment gateway type");
-
 		}
 	
 	}
 }
 
-public static class LoggerFactory
-{
-	
-}
+
 public class Program
 {
 	public static void Main()
