@@ -1,12 +1,12 @@
+using System;
 using System.Collections.Generic;
-using System.IO;
+using System.Threading;
+using System.Threading.Tasks;
 
-
-// Seadled keyword
 public sealed class ConfigurationManager
 {
     private static readonly Lazy<ConfigurationManager> instance =
-        new Lazy<ConfigurationManager>(() => new ConfigurationManager());
+        new Lazy<ConfigurationManager>(() => new ConfigurationManager(), LazyThreadSafetyMode.ExecutionAndPublication);
 
     private Dictionary<string, string> configurations;
 
@@ -14,17 +14,17 @@ public sealed class ConfigurationManager
 
     private ConfigurationManager()
     {
+        Console.WriteLine("ConfigurationManager instance created.");
         LoadConfigurations();
     }
 
     private void LoadConfigurations()
     {
-        // Mock: In a real scenario, you might be reading this from a file or a database.
+        // Mock: Loadconfig from appsetting.json
         configurations = new Dictionary<string, string>
         {
             {"APIEndpoint", "https://api.example.com"},
-            {"MaxUsers", "1000"},
-            {"RetryCount", "3"}
+            {"IsCheckLicense", "false"}
         };
     }
 
@@ -39,7 +39,21 @@ class Program
 {
     static void Main()
     {
+        // Fake request from multiple thread 
+        Parallel.Invoke(
+            () => AccessConfigurationManager(),
+            () => AccessConfigurationManager(),
+            () => AccessConfigurationManager()
+        );
+    }
+
+    static void AccessConfigurationManager()
+    {
         string apiEndpoint = ConfigurationManager.Instance.GetConfiguration("APIEndpoint");
         Console.WriteLine($"API Endpoint: {apiEndpoint}");
+
+        string isCheckLicense = ConfigurationManager.Instance.GetConfiguration("IsCheckLicense");
+        Console.WriteLine($"IsCheckLicense: {isCheckLicense}");
+
     }
 }

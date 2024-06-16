@@ -12,6 +12,8 @@ public class ConsoleLogger : ILogger
 		Console.WriteLine($"Console: {message}");
 	}
 }
+
+
 public class FileLogger : ILogger
 {
 	private readonly string _path;
@@ -24,6 +26,8 @@ public class FileLogger : ILogger
 		Console.WriteLine($"File Logging: {_path} :  {message}");
 	}
 }
+
+
 public class DatabaseLogger : ILogger
 {
 	public void Log(string message)
